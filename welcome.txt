@@ -7,3 +7,4 @@
 ===========================================================
 |       https://github.com/smnenko/telegram_manager       |
 ===========================================================
+Enter q to exit. Select option you need below:

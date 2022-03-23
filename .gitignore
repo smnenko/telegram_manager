@@ -1,2 +1,4 @@
 .idea
 venv
+accounts
+**/__pycache__/
