@@ -6,7 +6,7 @@ Service provides tools to work with multiple telegram accounts such as save sess
 - Telethon 1.24.0
 
 ### Installation
-Keep in mind you have installed **Python>=3.8** and python package manager named **pipenv**  
+Make sure you have installed **Python>=3.8** and python package manager named **pipenv**  
 Run the following command:  
 ```
 pipenv install
