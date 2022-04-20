@@ -7,16 +7,20 @@ Service provides tools to work with multiple telegram accounts such as save sess
 
 ### Installation
 Make sure you have installed **Python>=3.8** and python package manager named **pipenv**  
-Run the following command:  
+Create python virtual environment:  
 ```
-pipenv install
-``` 
+pytho3 -m venv venv
+```
 Activate your local environment using:
 ```
 source venv/bin/activate (Linux)
 cd venv\Scripts && activate.bat (Windows)
 ```
-Or run it using pipenv:
+Install required packages:  
 ```
-pipenv run main.py
+pipenv install
+``` 
+Run **main.py** file with python:
+```
+python3 main.py
 ```
